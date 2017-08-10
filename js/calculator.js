@@ -4,6 +4,9 @@
  * simple javascript calculator tutorial javascript
  */
 
+// #TODO:hurst : add overflow hidden to display and fix text-indent to (-) to respond to increasing txt
+// and add padding to right hand side 
+
 function init() {
 
     // get all the keys from the DOM
